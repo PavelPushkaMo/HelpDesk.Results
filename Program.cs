@@ -161,7 +161,7 @@ app.MapGet("/", (IResultExtensions resultExtensions) =>
 </html>";
     
     return resultExtensions.Html(html);
-});
+}).AllowAnonymous();
 
 // GET /about/text - простой текст
 app.MapGet("/about/text", () =>

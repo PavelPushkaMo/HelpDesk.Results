@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mogir\\HelpDesk.Results\\wwwroot\\files\\readme.txt",
+      "PackagePath": "staticwebassets\\files\\readme.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HelpDesk.Results.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HelpDesk.Results.props",
+      "PackagePath": "build\\HelpDesk.Results.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HelpDesk.Results.props",
+      "PackagePath": "buildMultiTargeting\\HelpDesk.Results.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HelpDesk.Results.props",
+      "PackagePath": "buildTransitive\\HelpDesk.Results.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

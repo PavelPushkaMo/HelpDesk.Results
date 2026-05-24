@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ixJ5mMLUfG6gGDtngR8DVTbExGUBOcc1JrSH5d7xKAc=",
+  "Source": "HelpDesk.Results",
+  "BasePath": "_content/HelpDesk.Results",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HelpDesk.Results\\wwwroot",
+      "Source": "HelpDesk.Results",
+      "ContentRoot": "C:\\Users\\mogir\\HelpDesk.Results\\wwwroot\\",
+      "BasePath": "_content/HelpDesk.Results",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mogir\\HelpDesk.Results\\wwwroot\\files\\readme.txt",
+      "SourceId": "HelpDesk.Results",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mogir\\HelpDesk.Results\\wwwroot\\",
+      "BasePath": "_content/HelpDesk.Results",
+      "RelativePath": "files/readme.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\readme.txt"
+    }
+  ]
+}
